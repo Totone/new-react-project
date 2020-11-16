@@ -35,21 +35,19 @@ projectRoot/
         │       └── variables/
         │
         ├── components/
-        │   └── <ComponentFolder>
-        │       ├── <componentFile>
-        │       └── <componentFile>
+        │   └── ComponentFolder/
+        │       ├── componentFile
+        │       └── componentFile
         │
         ├── index.[js|ts]
         ├── reset.css
         │
-        ├── layouts/
-        │   ├── views/
-        │   │   └── <ViewLayoutFolder>
-        │   └── <LayoutFolder>
+        ├── views/
+        │   └── ViewFolder/
         │
         ├── services/
-        │   ├── <serviceFile.js>
-        │   └── <otherServiceFile.js>
+        │   ├── serviceFile.js
+        │   └── otherServiceFile.js
         │
         └── store/
 ```

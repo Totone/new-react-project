@@ -63,8 +63,7 @@
     'assets/img/', 
     'assets/img/views/', 
     'components', 
-    'layouts',
-    'layouts/views',
+    'views',
     'services', 
     'store',
   ]
